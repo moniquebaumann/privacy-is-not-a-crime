@@ -12,11 +12,14 @@
 <div class="text-center content">
     <p><br /></p>
     <h1>Privacy Is Not A Crime</h1>
+    <p><br /></p>
+    
+    <h2>Goals</h2>
 
     We end government crime.
     <p></p>
-    We separate money from state criminals, like religion has been separated from
-    state criminals.
+    We separate money from state criminals like religion has been separated from
+    state.
     <p></p>
     We showcase how people can define for themselves what they accept as money for
     peer to peer interactions.
@@ -79,7 +82,7 @@
    
     <p><br /></p>
 
-    We inspire people to value privacy, justice, freedom and peace and
+    We encourage people to value privacy, justice, freedom and peace and
     <a
         href="https://github.com/moniquebaumann/friends-of-satoshi/blob/main/README.md"
         target="_blank">we</a
@@ -95,7 +98,14 @@
         href="https://github.com/moniquebaumann/privacy-is-not-a-crime/blob/main/README.md"
         target="_blank">open source</a
     >.
+    <p></p>
+    Once you have hidden or generated a <a href="https://freedomcash.org/freedomWallets" target="_blank">Freedom Wallet</a> you can send its <b>public</b> wallet address to <a href="https://t.me/FriendsOfSatoshi_bot" target="_blank">FriendsOfSatoshi</a>.
     <p><br /></p>
+    <embed src="https://moniquebaumann.github.io/paperwallet-generator" width="100%" height="810" />
+    
+    <p><br /></p>
+
+
 </div>
 
 <style>
