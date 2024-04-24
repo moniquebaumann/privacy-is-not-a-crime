@@ -7,7 +7,7 @@ const config = {
 
 	kit: {
 		// SET THE PATHS HERE
-		paths: { assets: "", base: "/PERSONAL_PATH" },
+		paths: { assets: "", base: "" },
 		adapter: adapter({
 			// NOT HERE!
 			// paths: { base: "/PERSONAL_PATH" },
