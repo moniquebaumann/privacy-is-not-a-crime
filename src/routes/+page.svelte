@@ -102,10 +102,10 @@
     Once you have hidden or generated a <a href="https://freedomcash.org/freedomWallets" target="_blank">Freedom Wallet</a> you can send its <b>public</b> wallet address to <a href="https://t.me/FriendsOfSatoshi_bot" target="_blank">FriendsOfSatoshi</a>.
     <p><br /></p>
     <embed src="https://moniquebaumann.github.io/paperwallet-generator" width="100%" height="810" />
+    <p><br /></p>
+    <embed src="https://freedomlog.github.io/logbook-of-freedom" width="100%" height="810" />
     
     <p><br /></p>
-
-
 </div>
 
 <style>
