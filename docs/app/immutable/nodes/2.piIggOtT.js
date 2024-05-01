@@ -52,7 +52,8 @@ import{s,n as a}from"../chunks/scheduler.BvLojk_z.js";import{S as i,i as h,e as 
     This project is
     <a href="https://github.com/moniquebaumann/privacy-is-not-a-crime/blob/main/README.md" target="_blank">open source</a>.
     <p></p>
-    Once you have hidden or generated a<a href="https://freedomcash.org/freedomWallets" target="_blank">Freedom Wallet</a>
+    Once you have hidden or generated a
+    <a href="https://freedomcash.org/freedomWallets" target="_blank">Paper Wallet</a>
     you can send its <b>public</b> wallet address to
     <a href="https://t.me/FriendsOfSatoshi_bot" target="_blank">FriendsOfSatoshi</a>.
-    <p><br/></p> <embed src="https://moniquebaumann.github.io/paperwallet-generator" width="100%" height="810"/> <p><br/></p> <embed src="https://geld-wandern.de" width="100%" height="810"/> <p><br/></p>`;return{c(){e=p("div"),e.innerHTML=o,this.h()},l(t){e=l(t,"DIV",{class:!0,"data-svelte-h":!0}),d(e)!=="svelte-18q6vp7"&&(e.innerHTML=o),this.h()},h(){c(e,"class","text-center content svelte-1spxfcw")},m(t,r){m(t,e,r)},p:a,i:a,o:a,d(t){t&&u(e)}}}class y extends i{constructor(e){super(),h(this,e,null,f,s,{})}}export{y as component};
+    <p><br/></p> <embed src="https://moniquebaumann.github.io/paperwallet-generator" width="100%" height="810"/> <p><br/></p> <embed src="https://geld-wandern.de" width="100%" height="810"/> <p><br/></p>`;return{c(){e=p("div"),e.innerHTML=o,this.h()},l(t){e=l(t,"DIV",{class:!0,"data-svelte-h":!0}),d(e)!=="svelte-1jnn8qd"&&(e.innerHTML=o),this.h()},h(){c(e,"class","text-center content svelte-1spxfcw")},m(t,r){m(t,e,r)},p:a,i:a,o:a,d(t){t&&u(e)}}}class y extends i{constructor(e){super(),h(this,e,null,f,s,{})}}export{y as component};
