@@ -6,7 +6,7 @@ We foster Freedom, Justice, Peace and Love.
 ## Fancy Shit
 Friends of [friends of satoshi](https://github.com/moniquebaumann/friends-of-satoshi) have hidden thousands of paperwallets in thousands of restrooms all around the globe.  
 We combine crypto education and reasonable distribution with [Geo-Caching](https://geo-caching.org).  
-Once the [initial distribution](https://polygonscan.com/token/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93#balances) is completed we will donate liquidity to get the party started. 
+Once the [initial distribution](https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459#balances) is completed we will donate liquidity to get the party started. 
 
 ## Hideouts
 To give you an impression regarding typical hideouts for freedom wallets within public restrooms we have prepared [this channel](https://rumble.com/c/c-6145166) on [rumble.com](https://rumble.com). Feel free to generate and fund thousands of freedom wallets yourself. 
@@ -24,5 +24,5 @@ We are [Friends of Satoshi](https://github.com/moniquebaumann/friends-of-satoshi
 ![chancellor-on-brink-of-second-bailout-for-banks-starter](https://github.com/moniquebaumann/freedom-cash-bot/assets/160405077/1ed00195-9738-45bf-a807-4dff034947ff)
 
   
-We are [FREE](https://polygonscan.com/address/0x1dc4e031e7737455318c77f7515f8ea8be280a93#tokentxns).   
+We are [FREE](https://polygonscan.com/address/0xb841A4f979F9510760ecf60512e038656E68f459#tokentxns).   
 

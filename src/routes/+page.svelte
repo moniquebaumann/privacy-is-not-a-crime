@@ -6,14 +6,13 @@
     // let counter = 0;
     // let displayed = 1;
     // let ready = false;
-
 </script>
 
 <div class="text-center content">
     <p><br /></p>
     <h1>Privacy Is Not A Crime</h1>
     <p><br /></p>
-    
+
     <h2>Goals</h2>
 
     We end government crime.
@@ -63,15 +62,19 @@
     <p></p>
     We combine crypto education and reasonable distribution of
     <a
-        href="https://polygonscan.com/token/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93"
-        target="_blank">Freedom Cash</a
+        href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
+        target="_blank">Geo Cash</a
     >
     with Geo-Caching.
     <p></p>
     Once the initial distribution is completed we will donate Matic and ETH liquidity
     to get the party started.
     <p></p>
-    <object height="450vh" title="some of the first ..." data="https://rumble.com/embed/v4oc2ar/?pub=3blg3u">
+    <object
+        height="450vh"
+        title="some of the first ..."
+        data="https://rumble.com/embed/v4oc2ar/?pub=3blg3u"
+    >
     </object>
 
     <p><br /></p>
@@ -79,7 +82,6 @@
         <button>Show more Hideouts</button>
     </a>
 
-   
     <p><br /></p>
 
     We encourage people to value privacy, justice, freedom and peace and
@@ -89,22 +91,37 @@
     >
     reward those who do so with
     <a
-        href="https://polygonscan.com/token/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93"
+        href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
         target="_blank">Freedom Cash</a
     >.
     <p></p>
-    This project is 
+    This project is
     <a
         href="https://github.com/moniquebaumann/privacy-is-not-a-crime/blob/main/README.md"
         target="_blank">open source</a
     >.
     <p></p>
-    Once you have hidden or generated a <a href="https://freedomcash.org/freedomWallets" target="_blank">Freedom Wallet</a> you can send its <b>public</b> wallet address to <a href="https://t.me/FriendsOfSatoshi_bot" target="_blank">FriendsOfSatoshi</a>.
+    Once you have hidden or generated a<a
+        href="https://freedomcash.org/freedomWallets"
+        target="_blank">Freedom Wallet</a
+    >
+    you can send its <b>public</b> wallet address to
+    <a href="https://t.me/FriendsOfSatoshi_bot" target="_blank"
+        >FriendsOfSatoshi</a
+    >.
     <p><br /></p>
-    <embed src="https://moniquebaumann.github.io/paperwallet-generator" width="100%" height="810" />
+    <embed
+        src="https://moniquebaumann.github.io/paperwallet-generator"
+        width="100%"
+        height="810"
+    />
     <p><br /></p>
-    <embed src="https://freedomlog.github.io/logbook-of-freedom" width="100%" height="810" />
-    
+    <embed
+        src="https://freedomlog.github.io/logbook-of-freedom"
+        width="100%"
+        height="810"
+    />
+
     <p><br /></p>
 </div>
 

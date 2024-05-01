@@ -1,4 +1,4 @@
-import{s,n as a}from"../chunks/scheduler.BvLojk_z.js";import{S as i,i as h,e as p,c as l,m as d,n as m,j as c,g as u}from"../chunks/index.CaLM_tdh.js";function b(n){let e,o=`<p><br/></p> <h1>Privacy Is Not A Crime</h1> <p><br/></p> <h2>Goals</h2>
+import{s,n as a}from"../chunks/scheduler.BvLojk_z.js";import{S as i,i as h,e as p,c as l,m as d,n as c,j as m,g as u}from"../chunks/index.CaLM_tdh.js";function f(n){let e,o=`<p><br/></p> <h1>Privacy Is Not A Crime</h1> <p><br/></p> <h2>Goals</h2>
 
     We end government crime.
     <p></p>
@@ -37,7 +37,7 @@ import{s,n as a}from"../chunks/scheduler.BvLojk_z.js";import{S as i,i as h,e as 
     <a href="https://rumble.com/c/c-6145166" target="_blank">on video</a>.
     <p></p>
     We combine crypto education and reasonable distribution of
-    <a href="https://polygonscan.com/token/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93" target="_blank">Freedom Cash</a>
+    <a href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459" target="_blank">Geo Cash</a>
     with Geo-Caching.
     <p></p>
     Once the initial distribution is completed we will donate Matic and ETH liquidity
@@ -47,10 +47,12 @@ import{s,n as a}from"../chunks/scheduler.BvLojk_z.js";import{S as i,i as h,e as 
     We encourage people to value privacy, justice, freedom and peace and
     <a href="https://github.com/moniquebaumann/friends-of-satoshi/blob/main/README.md" target="_blank">we</a>
     reward those who do so with
-    <a href="https://polygonscan.com/token/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93" target="_blank">Freedom Cash</a>.
+    <a href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459" target="_blank">Freedom Cash</a>.
     <p></p>
-    This project is 
+    This project is
     <a href="https://github.com/moniquebaumann/privacy-is-not-a-crime/blob/main/README.md" target="_blank">open source</a>.
     <p></p>
-    Once you have hidden or generated a <a href="https://freedomcash.org/freedomWallets" target="_blank">Freedom Wallet</a> you can send its <b>public</b> wallet address to <a href="https://t.me/FriendsOfSatoshi_bot" target="_blank">FriendsOfSatoshi</a>.
-    <p><br/></p> <embed src="https://moniquebaumann.github.io/paperwallet-generator" width="100%" height="810"/> <p><br/></p> <embed src="https://freedomlog.github.io/logbook-of-freedom" width="100%" height="810"/> <p><br/></p>`;return{c(){e=p("div"),e.innerHTML=o,this.h()},l(t){e=l(t,"DIV",{class:!0,"data-svelte-h":!0}),d(e)!=="svelte-13olm7g"&&(e.innerHTML=o),this.h()},h(){m(e,"class","text-center content svelte-1spxfcw")},m(t,r){c(t,e,r)},p:a,i:a,o:a,d(t){t&&u(e)}}}class y extends i{constructor(e){super(),h(this,e,null,b,s,{})}}export{y as component};
+    Once you have hidden or generated a<a href="https://freedomcash.org/freedomWallets" target="_blank">Freedom Wallet</a>
+    you can send its <b>public</b> wallet address to
+    <a href="https://t.me/FriendsOfSatoshi_bot" target="_blank">FriendsOfSatoshi</a>.
+    <p><br/></p> <embed src="https://moniquebaumann.github.io/paperwallet-generator" width="100%" height="810"/> <p><br/></p> <embed src="https://freedomlog.github.io/logbook-of-freedom" width="100%" height="810"/> <p><br/></p>`;return{c(){e=p("div"),e.innerHTML=o,this.h()},l(t){e=l(t,"DIV",{class:!0,"data-svelte-h":!0}),d(e)!=="svelte-1hfklrj"&&(e.innerHTML=o),this.h()},h(){c(e,"class","text-center content svelte-1spxfcw")},m(t,r){m(t,e,r)},p:a,i:a,o:a,d(t){t&&u(e)}}}class y extends i{constructor(e){super(),h(this,e,null,f,s,{})}}export{y as component};
