@@ -92,7 +92,7 @@
     reward those who do so with
     <a
         href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
-        target="_blank">Freedom Cash</a
+        target="_blank">Geo Cash</a
     >.
     <p></p>
     This project is
@@ -117,7 +117,7 @@
     />
     <p><br /></p>
     <embed
-        src="https://freedomlog.github.io/logbook-of-freedom"
+        src="https://geld-wandern.de"
         width="100%"
         height="810"
     />

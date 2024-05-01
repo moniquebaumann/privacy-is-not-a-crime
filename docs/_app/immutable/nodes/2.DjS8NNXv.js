@@ -47,7 +47,7 @@ import{s,n as a}from"../chunks/scheduler.BvLojk_z.js";import{S as i,i as h,e as 
     We encourage people to value privacy, justice, freedom and peace and
     <a href="https://github.com/moniquebaumann/friends-of-satoshi/blob/main/README.md" target="_blank">we</a>
     reward those who do so with
-    <a href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459" target="_blank">Freedom Cash</a>.
+    <a href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459" target="_blank">Geo Cash</a>.
     <p></p>
     This project is
     <a href="https://github.com/moniquebaumann/privacy-is-not-a-crime/blob/main/README.md" target="_blank">open source</a>.
@@ -55,4 +55,4 @@ import{s,n as a}from"../chunks/scheduler.BvLojk_z.js";import{S as i,i as h,e as 
     Once you have hidden or generated a<a href="https://freedomcash.org/freedomWallets" target="_blank">Freedom Wallet</a>
     you can send its <b>public</b> wallet address to
     <a href="https://t.me/FriendsOfSatoshi_bot" target="_blank">FriendsOfSatoshi</a>.
-    <p><br/></p> <embed src="https://moniquebaumann.github.io/paperwallet-generator" width="100%" height="810"/> <p><br/></p> <embed src="https://freedomlog.github.io/logbook-of-freedom" width="100%" height="810"/> <p><br/></p>`;return{c(){e=p("div"),e.innerHTML=o,this.h()},l(t){e=l(t,"DIV",{class:!0,"data-svelte-h":!0}),d(e)!=="svelte-1hfklrj"&&(e.innerHTML=o),this.h()},h(){c(e,"class","text-center content svelte-1spxfcw")},m(t,r){m(t,e,r)},p:a,i:a,o:a,d(t){t&&u(e)}}}class y extends i{constructor(e){super(),h(this,e,null,f,s,{})}}export{y as component};
+    <p><br/></p> <embed src="https://moniquebaumann.github.io/paperwallet-generator" width="100%" height="810"/> <p><br/></p> <embed src="https://geld-wandern.de" width="100%" height="810"/> <p><br/></p>`;return{c(){e=p("div"),e.innerHTML=o,this.h()},l(t){e=l(t,"DIV",{class:!0,"data-svelte-h":!0}),d(e)!=="svelte-18q6vp7"&&(e.innerHTML=o),this.h()},h(){c(e,"class","text-center content svelte-1spxfcw")},m(t,r){m(t,e,r)},p:a,i:a,o:a,d(t){t&&u(e)}}}class y extends i{constructor(e){super(),h(this,e,null,f,s,{})}}export{y as component};
