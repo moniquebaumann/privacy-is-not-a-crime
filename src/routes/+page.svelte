@@ -116,7 +116,7 @@
         height="810"
     />
     <p><br /></p>
-    <embed src="https://geld-wandern.de" width="100%" height="810" />
+    <embed src="https://freedomlog.de" width="100%" height="810" />
 
     <p><br /></p>
 </div>
