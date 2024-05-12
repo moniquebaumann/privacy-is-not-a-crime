@@ -125,6 +125,70 @@
         >FriendsOfSatoshi</a
     >.
     <p><br /></p>
+    <h2>Freedom Currencies</h2>
+    <div class="tableDiv">
+        <table>
+            <tr>
+                <th style="text-align: center">Currency</th>
+                <th>Total Supply</th>
+            </tr>
+            <tr>
+                <td>
+                    <a
+                        href="https://polygonscan.com/token/0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7"
+                        target="_blank"
+                    >
+                        Freiheit
+                    </a>
+                </td>
+                <td class="longInfo">
+                    <a
+                        href="https://www.geckoterminal.com/polygon_pos/pools/0x2bc882c913655648c582aabde5aed2acd4e3ad7b"
+                        target="_blank"
+                    >
+                        9.000.000.000 Coins
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a
+                        href="https://polygonscan.com/token/0x0715184614CA1e90EafDf7A4d7fE33B046b47C02"
+                        target="_blank"
+                    >
+                        Friede
+                    </a>
+                </td>
+                <td class="longInfo">
+                    <a
+                        href="https://www.geckoterminal.com/polygon_pos/pools/0x16e579221bb5d27be335bba6966f87f013894226"
+                        target="_blank"
+                    >
+                        9.000.000.000 Coins
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a
+                        href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
+                        target="_blank"
+                    >
+                        Geo Cash
+                    </a>
+                </td>
+                <td class="longInfo">
+                    <a
+                        href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c"
+                        target="_blank"
+                    >
+                        360.000.000 Coins
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </div>    
+    <p><br /></p>
     <embed
         src="https://moniquebaumann.github.io/paperwallet-generator"
         width="100%"
@@ -152,4 +216,26 @@
         margin-right: auto;
         width: 69vw;
     }
+    .tableDiv {
+		overflow-x: scroll;
+        width: 69vw;
+        margin-left: auto;
+        margin-right: auto;
+	}
+	table {
+		font-family: arial, sans-serif;
+		border-collapse: collapse;
+		width: 100%;
+	}
+
+	td,
+	th {
+		border: 1px solid #dddddd;
+		padding: 8px;
+		text-align: center;
+	}
+
+	tr:nth-child(even) {
+		background-color: #dddddd;
+	}
 </style>
