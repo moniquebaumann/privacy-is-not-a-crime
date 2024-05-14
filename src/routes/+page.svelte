@@ -57,6 +57,8 @@
 
     <p><br /><br /><br /></p>
 
+    <h2>History</h2>
+    <p><br></p>
     <div class="iframediv">
         <iframe
             class="rumble"
@@ -69,46 +71,10 @@
         />
     </div>
     <p><br /></p>
-    <h2>History</h2>
-    Young global cheaters went too far in exploiting us.
-    <p></p>
-    They provoked wars. They murdered hundreds of thousands of men.
-    <p></p>
-    They raised taxes for nonsense, they inflated their shitcoins which they had
-    forced upon us.
-    <p></p>
-    They criminalized freedom people and sent them to jail. If you do not know many
-    examples yourself, you are an idiot yourself.
-    <p></p>
-    They laundered their money through corrupt government officials, through corrupt
-    so called defense organizations and through the weapons- and media industry in
-    general.
-    <p></p>
-    They manipulated people via mass surveillance. They manipulated people via their
-    mobile devices and radiation. They provoked plandemics to manipulate people
-    <a href="https://x.com/NehlsMD/status/1761010894341865647" target="_blank"
-        >via bioweapons</a
-    >.
-    <p></p>
-    They
-    <a href="https://x.com/KimDotcom/status/1781575449065427180" target="_blank"
-        >hijacked Bitcoin</a
-    >.
-    <p><br /></p>
+    
     <h2>Our Goals</h2>
 
     We invite everyone to live together in peace, freedom and mutual respect.
-    <p></p>
-    Therefore we explore how we can end the most dangerous crime which is government
-    crime.
-    <p></p>
-    Therefore we separate money from state criminals like religion has been separated
-    from state.
-    <p></p>
-    We explore how people can define for themselves what they accept as money for
-    peer to peer interactions and how public goods funding can be done e.g. via
-    <a href="https://gitcoin.co" target="_blank"> gitcoin</a>.
-
     <p></p>
     This project is
     <a
@@ -123,8 +89,8 @@
     you can send its <b>public</b> wallet address to
     <a href="https://t.me/FriendsOfSatoshi_bot" target="_blank"
         >FriendsOfSatoshi</a
-    >.
-    <p><br /></p>
+    >. 
+    <p><br /><br><br></p>
     <h2>Freedom Currencies</h2>
     <div class="tableDiv">
         <table>
